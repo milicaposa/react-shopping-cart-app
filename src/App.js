@@ -87,7 +87,7 @@ function App() {
   return (
     <div className="grid-container">
       <header>
-        <a href="/">React Shopping Cart App</a>
+        <a href="#">React Shopping Cart App</a>
       </header>
       <main>
         <div className="content">
